@@ -533,7 +533,7 @@ footer:
       source: false
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-         - 兩行來自秋末的眼淚&#44;我要的只是你在我身邊&#44;再愛我一遍~~&nbsp;&nbsp;楓&nbsp;&#9472;&#9472;&nbsp;周杰倫
+         - 我要的只是你在我身邊&#44;再愛我一遍~~&nbsp;&nbsp;楓&nbsp;&#9472;&#9472;&nbsp;周杰倫
 
 # Analysis
 # --------------------------------------
@@ -788,7 +788,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这里有为<b style="color:#fff">前后端编程</b>、<b style="color:#fff">单片机技术</b>爱好者提供有关<b style="color:#fff">编程</b>和<b style="color:#fff">电子开发</b>的有价值信息。</div> # 站点描述
+    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这里为<b style="color:#fff">前后端编程</b>、<b style="color:#fff">单片机技术</b>爱好者提供有关<b style="color:#fff">编程</b>和<b style="color:#fff">电子开发</b>的有价值信息。</div> <script async src="https://npm.elemecdn.com/penndu@1.0.0/bsz.js"></script><div>本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</div><div>本站总访客数 <span id="busuanzi_value_site_uv"></span> 人</div> # 站点描述
     name_link: /
 
   card_announcement:
