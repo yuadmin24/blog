@@ -1,0 +1,28 @@
+- class_name: 好物
+  description: 实物装备推荐
+  tip: 享受科技带来的乐趣
+  top_background: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/080e41623f6419b7b6830.jpg
+  good_things:
+    - title: 生产力
+      description: 提升生产效率的硬件设备
+      equipment_list:
+        - name: CPU
+          specification: Intel(R) Core(TM) i7-10750H
+          description: 第十代智能英特尔® 酷睿™ i7 处理器(14 nm)
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/c345d495a770c387df6ed.jpg
+          link: https://ark.intel.com/content/www/cn/zh/ark/products/201837/intel-core-i710750h-processor-12m-cache-up-to-5-00-ghz.html
+        - name: 显卡
+          specification: GTX 1650Ti
+          description: GTX 1650 Ti是NVIDIA(英伟达)推出的一款中端游戏显卡
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/9bc9a833510fb63b9928f.jpg
+          link: https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/
+        - name: 鼠标
+          specification: G502 Hero
+          description: 专为高级游戏性能而设计。采用 HERO 25K 游戏传感器，具有亚微米精度跟踪、可定制的 LIGHTSYNC RGB、板载配置文件、可重新定位的配重等。
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/9b25fc80e0cacdc91e842.png
+          link: https://www.logitechg.com/en-us/products/gaming-mice/g502-hero-gaming-mouse.910-005469.html
+        - name: 键盘
+          specification: IQUNIX F96
+          description: 铝厂键盘，值得信赖😀
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/dd1a026efeb6672c53d89.png
+          link: https://iqunix.store/collections/all
