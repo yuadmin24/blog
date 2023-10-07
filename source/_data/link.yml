@@ -1,0 +1,79 @@
+- class_name: 推荐网站
+  flink_style: telescopic
+  hundredSuffix: ""
+  link_list:
+    - name: bilibili
+      link: https://www.bilibili.com/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/3e16a9d2285b0263dd04b.png
+      descr: 哔哩哔哩(゜-゜)つロ干杯~
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/c7f4417ff1ce1e55ea906.png
+      color: vip
+      tag: 学习
+    - name: github
+      link: https://github.com/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/ba09273481dbfc41c1262.png
+      descr: 一个在线软件源代码托管服务平台
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/1010cf193d3c996cf2a8e.png
+      color: vip
+      tag: 技术
+    - name: StackOverflow
+      link: https://stackoverflow.com/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/0eba285ca5c673f8f7d6b.png
+      descr: Stack Overflow是一个程序设计领域的问答网站
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/b1a3b02e29a7a38f91cb2.png
+      color: vip
+      tag: 技术 
+    - name: gitee
+      link: https://gitee.com/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/32c55c2e7df6a32effd2d.png
+      descr: Gitee.com(码云)是OSCHINA.NET 推出的代码托管平台
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/49f5942f89e4df95e1496.png
+      color: 
+      tag: 技术
+    - name: 百度开发者搜索
+      link: https://kaifa.baidu.com/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/a4f29264c4c32673725cc.png
+      descr: 面向开发者的百度搜索
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/0330af0ecd92ea6c00252.png
+      color: 
+      tag: 搜索
+    - name: 开源中国
+      link: https://www.oschina.net/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/af424b280e10109410da8.png
+      descr: OSCHINA.NET 是目前领先的中文开源技术社区
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/7fdcf9f081881adde386a.png
+      color: 
+      tag: 技术  
+    - name: iconfont
+      link: https://www.iconfont.cn/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/32a26bdefadcad276c24f.png
+      descr: iconfont-阿里巴巴矢量图标库-功能很强大且图标内容很丰富的矢量图标库
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/1790eab8de00b317688c0.png
+      tag: 技术 
+
+- class_name: 框架
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-cn/
+      avatar: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/41128c585640d9387f9df.png
+      descr: 快速、简单且强大的网站框架
+      siteshot: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/6f82675bad8abc9e7d029.png
+    - name: anzhiyu主题
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+      siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
+
+# - class_name: 小伙伴
+#   class_desc: 那些人，那些事
+#   flink_style: anzhiyu
+#   hundredSuffix: ""
+#   link_list:
+#     - name: 安知鱼
+#       link: https://blog.anheyu.com/
+#       avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#       descr: 生活明朗，万物可爱
+#       recommend: true

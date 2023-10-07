@@ -1,23 +1,23 @@
 menu:
-  文章:
-    隧道: /archives/ || anzhiyu-icon-box-archive
-    分类: /categories/ || anzhiyu-icon-shapes
-    标签: /tags/ || anzhiyu-icon-tags
+  # 文章:
+  #   隧道: /archives/ || anzhiyu-icon-box-archive
+  #   分类: /categories/ || anzhiyu-icon-shapes
+  #   标签: /tags/ || anzhiyu-icon-tags
 
   友链:
     友人帐: /link/ || anzhiyu-icon-link
-    朋友圈: /fcircle/ || anzhiyu-icon-artstation
-    留言板: /comments/ || anzhiyu-icon-envelope
+    # 朋友圈: /fcircle/ || anzhiyu-icon-artstation
+    # 留言板: /comments/ || anzhiyu-icon-envelope
 
   我的:
     音乐馆: /music/ || anzhiyu-icon-music
-    追番页: /bangumis/ || anzhiyu-icon-bilibili
-    相册集: /album/ || anzhiyu-icon-images
-    小空调: /air-conditioner/ || anzhiyu-icon-fan
+    # 追番页: /bangumis/ || anzhiyu-icon-bilibili
+    # 相册集: /album/ || anzhiyu-icon-images
+    # 小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   关于:
-    关于本人: /about/ || anzhiyu-icon-paper-plane
-    闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+    # 关于本人: /about/ || anzhiyu-icon-paper-plane
+    # 闲言碎语: /essay/ || anzhiyu-icon-lightbulb
     随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
@@ -788,7 +788,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这里为<b style="color:#fff">前后端编程</b>、<b style="color:#fff">单片机技术</b>爱好者提供有关<b style="color:#fff">编程</b>和<b style="color:#fff">电子开发</b>的有价值信息。</div> <script async src="https://npm.elemecdn.com/penndu@1.0.0/bsz.js"></script><div>本站总访问量 <span id="busuanzi_value_site_pv"></span> 次</div><div>本站总访客数 <span id="busuanzi_value_site_uv"></span> 人</div> # 站点描述
+    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这里为<b style="color:#fff">前后端编程</b>、<b style="color:#fff">单片机技术</b>爱好者提供有关<b style="color:#fff">编程</b>和<b style="color:#fff">电子开发</b>的有价值信息。</div>  # 站点描述
     name_link: /
 
   card_announcement:
@@ -832,9 +832,9 @@ aside:
 # busuanzi count for PV / UV in site
 # 访问人数
 busuanzi:
-  site_uv: false
-  site_pv: false
-  page_pv: false
+  site_uv: true
+  site_pv: true
+  page_pv: true
 
 # Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
@@ -1222,7 +1222,7 @@ CDN:
 
   # Custom format
   # For example: https://cdn.staticfile.org/${cdnjs_name}/${version}/${min_cdnjs_file}
-  custom_format: # https://npm.elemecdn.com/${name}@latest/${file}
+  custom_format: https://npm.elemecdn.com/penndu@1.0.0/bsz.js # https://npm.elemecdn.com/${name}@latest/${file}
 
   option:
     # main_css:
