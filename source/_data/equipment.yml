@@ -26,3 +26,16 @@
           description: 铝厂键盘，值得信赖😀
           image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/dd1a026efeb6672c53d89.png
           link: https://iqunix.store/collections/all
+    - title: 操作系统
+      description: 生产环境
+      equipment_list:
+        - name: Windows 11
+          specification: 专业版 23H2
+          description: Windows 11是微软于2021年推出的电脑操作系统
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/f4651888d1830a4334035.png
+          link: https://www.microsoft.com/zh-cn/software-download/windows11
+        - name: Ubuntu
+          specification: 22.04.3 LTS
+          description: Ubuntu是著名的Linux发行版之一，也是目前最多用户的Linux版本。
+          image: https://0dad3a1b.telegraph-image-5zs.pages.dev/file/439c6e2e3b7c59b593389.png
+          link: https://cn.ubuntu.com/download/desktop
