@@ -845,8 +845,8 @@ const anzhiyu = {
       return;
     }
     const urlParams = new URLSearchParams(window.location.search);
-    const userId = "9042617729";
-    const userServer = "tencent";
+    const userId = "8776187787";
+    const userServer = "netease";
     const anMusicPageMeting = document.getElementById("anMusic-page-meting");
     if (urlParams.get("id") && urlParams.get("server")) {
       const id = urlParams.get("id");
